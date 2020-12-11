@@ -3,7 +3,13 @@ body {
 }
 
 hr {
-    background-color: white;
     border-style: none;
-    height: 2px;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: gray;
+    width: 5%;
+}
+
+img {
+    width: 200px;
 }
